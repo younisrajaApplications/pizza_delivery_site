@@ -1,0 +1,21 @@
+/* Add this CSS to your component's CSS file or global CSS */
+
+.listContainer {
+    display: flex; /* Use flexbox to arrange items horizontally */
+}
+  
+.list {
+    list-style:lower-alpha; /* Remove default list bullet points */
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc; /* Optional border for styling */
+    padding: 10px;
+    margin-right: 10px; /* Add space between lists */
+}
+
+.text {
+    color: #CB240C;
+    background-color: #31711E;
+    font-weight: bold;
+    font-size: 16px;
+}
