@@ -1,5 +1,6 @@
 import styles from './banner.module.css'
 import stylesTwo from './menu.module.css'
+import Menu from "@/components/menu";
 
 
 

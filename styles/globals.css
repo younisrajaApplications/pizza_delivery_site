@@ -6,8 +6,14 @@ tr {
   cursor: pointer;
 }
 
-body {
-  background-color: crimson;
+.head {
+  background-color: #CB240C;
+  color: #31711E;
+}
+
+.webBody {
+  color: #CB240C;
+  background-color: #31711E;
 }
 
 .centerHorizontal {
